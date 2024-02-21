@@ -12,7 +12,7 @@ También te puede interesar: Arroz árabe peruano
 ## Ingredientes para hacer Arroz relleno peruano:
 | Capçalera 1 |
 |-------------|
-| Cel·la 1     |
+| Cel·la 1     | Cel·la 1     |
 | Cel·la 3     |
 
 ## Cómo hacer Arroz relleno peruano:
