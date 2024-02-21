@@ -36,5 +36,5 @@ _Truco: si pruebas el líquido en este paso, procura que el agua esté un tanto 
 
 
 
-> [!TIP]
-> Truco: hay algunos granos de arroz que necesitan más líquido, ten a mano un poco de agua o caldo caliente para ir agregando poco a poco si hiciera falta.
+> [!Truco]
+> Hay algunos granos de arroz que necesitan más líquido, ten a mano un poco de agua o caldo caliente para ir agregando poco a poco si hiciera falta.
