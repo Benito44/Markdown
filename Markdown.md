@@ -34,17 +34,7 @@ Para iniciar, ten lista la zanohoria picada en cuadraditos, la cebolla y el pimi
 _Truco: si pruebas el líquido en este paso, procura que el agua esté un tanto salada, pues al terminar la cocción del arroz, el nivel de sal bajará._
 
 
-> [!NOTE]
-> Essential details that users should not overlook, even when browsing quickly.
+
 
 > [!TIP]
-> Additional advice to aid users in achieving better outcomes.
-
-> [!IMPORTANT]
-> Vital information required for users to attain success.
-
-> [!WARNING]
-> Urgent content that requires immediate user focus due to possible risks.
-
-> [!CAUTION]
-> Possible negative outcomes resulting from an action.
+> Truco: hay algunos granos de arroz que necesitan más líquido, ten a mano un poco de agua o caldo caliente para ir agregando poco a poco si hiciera falta.
