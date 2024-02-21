@@ -14,6 +14,6 @@ También te puede interesar: Arroz árabe peruano
 
 ## Cómo hacer Arroz relleno peruano:
 | Ingredients                |
-|-------------|-------------|
-|  3 tazas de arroz     | Cel·la 2     |
-| Cel·la 3     | Cel·la 4     |
+
+|  3 tazas de arroz     |
+| Cel·la 3    |
