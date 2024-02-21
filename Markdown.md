@@ -7,3 +7,13 @@ Uno de los productos que caracteriza la gastronomía peruana, es sin duda, el **
 
 También te puede interesar: Arroz árabe peruano
 - Enllaç a un [altre document](document_alternatiu.md)
+
+
+## Ingredientes para hacer Arroz relleno peruano:
+
+
+## Cómo hacer Arroz relleno peruano:
+| Ingredients                |
+|-------------|-------------|
+|  3 tazas de arroz     | Cel·la 2     |
+| Cel·la 3     | Cel·la 4     |
