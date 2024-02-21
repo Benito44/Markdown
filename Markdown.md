@@ -10,9 +10,41 @@ También te puede interesar: Arroz árabe peruano
 
 
 ## Ingredientes para hacer Arroz relleno peruano:
-| Capçalera 1 |
-|-------------|
-| Cel·la 1     | Cel·la 1     |
-| Cel·la 3     |
+
+- 3 tazas de arroz
+- 3½ tazas de agua o caldo de pollo
+- 300 gramos de picadillo de embutidos
+- 1 pimiento
+- 1 zanahoria pequeña
+- ½ taza de alverjitas
+- 2 ramas de perejil
+- ½ taza de pasas negras
+- 1 chorro de aceite
+- 1 cebolla roja
+- 2 cucharadas de postre de ajo molido
+- 1 cucharada postre de palillo
+sal y pimienta al gusto 
 
 ## Cómo hacer Arroz relleno peruano:
+1
+
+Para iniciar, ten lista la zanohoria picada en cuadraditos, la cebolla y el pimiento rojo de igual forma. El picadillo de embutidos que podría incluir jamón, jamón ahumado o chorizo, pícalo en cubos de aproximadamente 1 cm.
+
+
+_Truco: si pruebas el líquido en este paso, procura que el agua esté un tanto salada, pues al terminar la cocción del arroz, el nivel de sal bajará._
+
+
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
