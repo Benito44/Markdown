@@ -4,8 +4,8 @@
 
 Uno de los productos que caracteriza la gastronomía peruana, es sin duda, el **arroz**; acompañante de la mayoría de platos. Este popular alimento va vestido de cualquier indumentaria y lleva consigo cualquier adorno, que va bien en todo momento del día y en cualquier momento del menú. En épocas de fiestas de fin de año, el arroz, por supuesto, también es un infaltable invitado a los banquetes que las familias suelen compartir como es costumbre. Esta vez, preparemos el **arroz relleno peruano**, que va variando en detallitos por cada hogar, pero que mantiene su esencia como asistente de honor en las cenas.
 
-- También te puede interesar: [Arroz relleno peruano]: 
-[Markdown-Cheat-Sheet]: https://www.recetasgratis.net/receta-de-arroz-arabe-peruano-77056.html
+- También te puede interesar: 
+[Arroz-relleno-peruano](https://www.recetasgratis.net/receta-de-arroz-arabe-peruano-77056.html)
 
 | Informació de la receta | Caracrerísticas adicionales|
 |-------------|-------------|
