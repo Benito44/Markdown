@@ -72,4 +72,5 @@ _Truco: si pruebas el líquido en este paso, procura que el agua esté un tanto 
 
 En la cocina peruana, los arroces y sus variaciones para estas **épocas de fiestas**, suelen ser también protagonistas de las noches en familia. Si paseamos un poco por las mesas de nuestros familiares, podríamos encontrar también estas elaboraciones:
 
-- Enllaç a un [altre document](ArrozSOS.htm)
+- También te puede interesar: 
+[Arroz tapado: Receta con sabor peruano en tu cocina](https://www.arrozsos.es/recetas/arroz-tapado/)
