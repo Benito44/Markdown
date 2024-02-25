@@ -30,11 +30,11 @@ Uno de los productos que caracteriza la gastronomía peruana, es sin duda, el **
 sal y pimienta al gusto 
 
 ## Cómo hacer Arroz relleno peruano:
-1. Para iniciar, ten lista la zanohoria picada en cuadraditos, la cebolla y el pimiento rojo de igual forma. El picadillo de embutidos que podría incluir jamón, jamón ahumado o chorizo, pícalo en cubos de aproximadamente 1 cm.
+1. Para iniciar, ten lista **la zanohoria picada en cuadraditos, la cebolla y el pimiento rojo** de igual forma. El picadillo de embutidos que podría incluir jamón, jamón ahumado o chorizo, pícalo en cubos de aproximadamente 1 cm.
 
 ![Text alternatiu per a la imatge local](1.webp)
 
-2. Empieza con el aderezo. Calienta el aceite en una olla grande, de preferencia una de fondo grueso para evitar que el arroz se nos pegue luego. Incorpora la cebolla y el ajo y sofríe por 3 minutos.
+2. Empieza con el aderezo. Calienta el aceite en una olla grande, de preferencia una de fondo grueso para evitar que el arroz se nos pegue luego. Incorpora la **cebolla y el ajo** y sofríe por **3 minutos**.
 
 ![Text alternatiu per a la imatge local](2.webp)
 
@@ -63,10 +63,13 @@ _Truco: si pruebas el líquido en este paso, procura que el agua esté un tanto 
 
 ![Text alternatiu per a la imatge local](7.webp)
 
-8. Presenta el arroz en una fuente o bowl grande donde tus invitados puedan servirse. Termina con un poco de perejil picado encima. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final.
+8. Presenta el arroz en una **fuente o bowl grande** donde tus invitados puedan servirse. Termina con un poco de perejil picado encima. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final.
 
 ![Text alternatiu per a la imatge local](8.webp)
 
 
+## Mas elaboraciones de arroces navideños
 
+En la cocina peruana, los arroces y sus variaciones para estas **épocas de fiestas**, suelen ser también protagonistas de las noches en familia. Si paseamos un poco por las mesas de nuestros familiares, podríamos encontrar también estas elaboraciones:
 
+- Enllaç a un [altre document](ArrozSOS.htm)
